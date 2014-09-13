@@ -1,0 +1,127 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-09-03 06:34:23 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 115
+ERROR - 2014-09-03 06:34:23 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 65
+ERROR - 2014-09-03 06:35:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 06:35:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 06:35:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 09:31:11 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 115
+ERROR - 2014-09-03 09:31:11 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 65
+ERROR - 2014-09-03 09:46:34 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 115
+ERROR - 2014-09-03 09:46:34 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 65
+ERROR - 2014-09-03 10:31:32 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 115
+ERROR - 2014-09-03 10:31:32 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 65
+ERROR - 2014-09-03 10:44:57 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 115
+ERROR - 2014-09-03 10:44:57 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 65
+ERROR - 2014-09-03 10:45:55 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 16
+ERROR - 2014-09-03 10:45:55 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 115
+ERROR - 2014-09-03 10:45:55 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 65
+ERROR - 2014-09-03 10:47:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 10:47:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 10:58:56 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 20
+ERROR - 2014-09-03 10:58:56 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 123
+ERROR - 2014-09-03 10:58:56 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 73
+ERROR - 2014-09-03 11:00:03 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 20
+ERROR - 2014-09-03 11:00:03 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 123
+ERROR - 2014-09-03 11:00:03 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 73
+ERROR - 2014-09-03 11:02:54 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 21
+ERROR - 2014-09-03 11:02:54 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 124
+ERROR - 2014-09-03 11:02:54 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 74
+ERROR - 2014-09-03 11:04:48 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 120
+ERROR - 2014-09-03 11:04:48 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 70
+ERROR - 2014-09-03 11:07:02 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 118
+ERROR - 2014-09-03 11:07:02 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 68
+ERROR - 2014-09-03 11:24:39 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 118
+ERROR - 2014-09-03 11:24:39 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 68
+ERROR - 2014-09-03 11:24:41 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 118
+ERROR - 2014-09-03 11:24:41 --> Severity: Notice  --> Undefined index:  KstoreGuest /home/a1150705/public_html/application/controllers/index.php 68
+ERROR - 2014-09-03 11:25:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 13:14:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 13:14:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 13:17:51 --> Severity: Notice  --> Undefined index:  adId /home/a1150705/public_html/application/controllers/new_ad_post.php 221
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 173
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:17:52 --> Severity: Notice  --> Undefined variable: c /home/a1150705/public_html/application/controllers/new_ad_post.php 185
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 183
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 183
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 183
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined variable: id /home/a1150705/public_html/application/controllers/new_ad_post.php 183
+ERROR - 2014-09-03 13:20:39 --> Severity: Notice  --> Undefined index:  adId /home/a1150705/public_html/application/controllers/new_ad_post.php 219
+ERROR - 2014-09-03 13:44:04 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:44:04 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:44:04 --> Severity: Notice  --> Undefined index:  adId /home/a1150705/public_html/application/controllers/new_ad_post.php 221
+ERROR - 2014-09-03 13:51:56 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:51:56 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:51:56 --> Severity: Notice  --> Undefined index:  adId /home/a1150705/public_html/application/controllers/new_ad_post.php 221
+ERROR - 2014-09-03 13:55:35 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:55:35 --> Severity: Notice  --> Undefined offset:  1 /home/a1150705/public_html/application/controllers/new_ad_post.php 172
+ERROR - 2014-09-03 13:55:35 --> Severity: Notice  --> Undefined index:  adId /home/a1150705/public_html/application/controllers/new_ad_post.php 221
+ERROR - 2014-09-03 14:28:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-09-03 14:30:25 --> Severity: Notice  --> Undefined index:  logged_in /home/a1150705/public_html/application/views/ad_details_view.php 35
